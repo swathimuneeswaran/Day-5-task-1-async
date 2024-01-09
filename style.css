@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(bisque,skyblue,bisque);
+    border-radius: 30px;
+}
+img{
+    border-radius: 30px;
+    box-shadow: 10px 10px gray;
+}
+
+button:hover{
+    text-decoration: 2px red overline;
+    
+}
+button{
+    height:40px;
+    
+}
